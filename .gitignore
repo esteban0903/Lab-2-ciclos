@@ -1,0 +1,8 @@
+# Ignorar archivos de configuración
+*.log
+.env
+.vscode/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
